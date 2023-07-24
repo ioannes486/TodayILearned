@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method='POST'>
+  {{form.as_p}}
+  <button type='submit'>제출</button>
+</form>
+
+{% if post %}
+  <!--사진 삽입-->
+  <img src="{{post.document.url}}" alt="사진이 읎다">
+
+  <!--사진 링크삽입-->
+  <p>Uploaded file @ : <a href="{{post.document.url}}">{{post.document}}</a></p>
+
+{% endif %}
+
+<p><a href="{% url 'opencv_webapp:detect_face' %}">Return to home</a></p>{% endblock content %}

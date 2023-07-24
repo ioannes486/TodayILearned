@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h3>필기내용</h3>
+  <ul>
+    <li>
+      label의 for와 input의 id는 동일해야 한다. html에서id와 관련된 동작을 할 때 동일하게 작동한다.
+    </li>
+    <li>
+      button의 type속성들 (submit, reset :  초기화, button : js로 추가적인 기능을 구현할 때.)
+    </li>
+    <li>
+      form의 autocomplete속성 : 자동완성 on/off
+    </li>
+    <li>
+      fieldset의 disabled속성 : <b>중요한 내용</b>을 다룰 때 사용, 입력창을 비활성화 시킨다. 속성 사용시 =이필요하지 않다.
+    </li>
+    <li>
+      input의 placeholder기능 : 빈칸에 어떤 내용을 적을 지 미리 알려주는 회색 텍스트를 지정한다.
+    </li>
+    <li>
+      search와 tel은 브라우저나 모바일 환경에 따라 다른 인풋형태를 보여주게 한다.
+    </li>
+  </ul>
+
+  <hr>
+  <h2>사용자로부터 입력받기 1</h2>
+  <form autocomplete="off" action="" method="get">
+    <fieldset>
+      <legend>반장</legend>
+
+      <label for="name">이름</label>
+      <input id="name_1" name="name_1" type="text" placeholder="이름을 입력하세요" maxlength="8">
+      <br><br>
+
+      <label for="age">나이</label>
+      <input id="age_1" name="age_1" type="number">
+
+    </fieldset>
+    <br>
+
+    <fieldset>
+      <legend>부반장</legend>
+
+      <label for="name">이름</label>
+      <input id="name_2" name="name_2" type="text">
+      <br><br>
+
+      <label for="age">나이</label>
+      <input id="age_2" name="age_2" type="number">
+
+    </fieldset>
+    <br>
+
+    <fieldset form="classForm" disabled>
+      <legend>서기</legend>
+
+      <label for="name">이름</label>
+      <input id="name_3" name="name_3" type="text">
+      <br><br>
+
+      <label for="age">나이</label>
+      <input id="age_3" name="age_3" type="number">
+    </fieldset>
+  </form>
+  <br>
+  <hr>
+<h2>사용자로부터 입력받기 2</h2>
+<h3>텍스트 관련 인풋 타입</h3>
+
+  <form action="#">
+    <label for="txtIp">text</label> <br>
+    <input 
+      id="txtIp"
+      type="text"
+      placeholder="5자 이하"
+      maxlength="5"
+    >
+    <br><br>
+
+    <label for="pwdIp">password</label> <br>
+    <input
+      id="pwdIp"
+      type="password"
+      placeholder="4자 이상"
+      minlength="4"
+    >
+    <br><br>
+
+    <label for="srchIp">search</label> <br>
+    <input id="srchIp" type="search" placeholder="검색어를 입력하세요">
+    <br><br>
+
+    <label for="tlIp">tel</label> <br>
+    <input id="tlIp" type="tel">
+    <br><br>
+    <button type="submit">제출</button>
+  </form>
+
+  <h3>숫자 관련 인풋 타입</h3>
+
+  <form action="#">
+    <label for="numIp">number</label> <br>
+    <input 
+      id="numIp"
+      type="number"
+      min="0"
+      max="10"
+      
+    >
+    <br><br>
+
+    <label for="rgIp">range</label> <br>
+    <input
+      id="rgIp"
+      type="range"
+      min="0"
+      max="100"
+      step="20"
+    >
+    <br><br>
+
+    <label for="dtIp">date</label> <br>
+    <input
+      id="dtIp"
+      type="date"
+      min="2020-01-01"
+      max="2030-12-31"
+    >
+    <br><br>
+    <label for="time">time</label>
+    <input type="time" id="time">
+    <br><br>
+
+    <label for="week">week</label>
+    <input type="url" name="" id="">
+  </form>
+
+  <h3>체크 관련 인풋 타입</h3>
+  <ul>
+    <li>
+      radio의 name속성을 같게 할 경우 하나가 선택되면 그룹 내에서 다른게 중복되어 선택되지 않도록 할 수 있다.
+    </li>
+    <li>
+      체크박스의 checked속성을 통해 페이지를 맨 처음 방문할 때 체크가 이미 되어있게 할 수 있다.
+    </li>
+
+  </ul>
+
+  <form action="#">
+    <h2>checkbox</h2>
+    <input 
+      id="cbIp"
+      type="checkbox"
+      checked
+    >
+    <label for="cbIp">유기농</label> <br>
+
+    <h2>radio</h2>
+    <input
+      type="radio"
+      name="fruit"
+      id="f_apple"
+      value="apple"
+      checked
+    >
+    <label for="f_apple">사과</label>
+    <input
+      type="radio"
+      name="fruit"
+      id="f_grape"
+      value="grape"
+    >
+    <label for="f_grape">포도</label>
+    <input
+      type="radio"
+      name="fruit"
+      id="f_orange"
+      value="orange"
+    >
+    <label for="f_orange">오렌지</label>
+    <br>
+
+    <input
+      type="radio"
+      name="vege"
+      id="v_carrot"
+      value="carrot"
+      checked
+    >
+    <label for="v_carrot">당근</label>
+    <input
+      type="radio"
+      name="vege"
+      id="v_tomato"
+      value="tomato"
+    >
+    <label for="v_tomato">토마토</label>
+    <input
+      type="radio"
+      name="vege"
+      id="v_eggplant"
+      value="eggplant"
+      
+    >
+    <label for="v_eggplant">가지</label>
+
+  </form>
+
+  <h3>기타 인풋 타입</h3>
+<ul>
+  <li>
+    accept속성 :파일을 올릴때 탐색기에 뜨는 파일 타입과 확장자를 지정해준다. <br>
+    multiple속성 : 파일을 여러개 올릴 수 있게 해준다. (드래그를 가능하게 한다.) 
+  </li>
+  <li>
+    hidden자동으로 작성되는 내용을 제출할 때 사용한다.
+  </li>
+  <li>
+    email 속성 : email형식이 아니면 제출되지 않게 한다 (가운데 골뱅이 필요)
+  </li>
+</ul>
+  <form action="#">
+    <label for="fileIp">file</label> <br>
+    <input 
+      id="fileIp"
+      type="file"
+      accept="image/png, image/jpeg"
+      multiple
+    >
+    <br><br>
+
+    <label for="hdnIp">hidden</label> <br>
+    <input
+      id="hdnIp"
+      type="hidden"
+    >
+  </form>
+
+  <br><hr><br>
+
+  <form action="#">
+    <label for="emlIp">email</label> <br>
+    <input 
+      id="emlIp"
+      type="email"
+    >
+    <br><br>
+
+    <button type="submit">제출</button>
+  </form>
+
+  <h3>인풋 요소 공통(대부분) 속성</h3>
+  <ul>
+    <li>
+      value : 기본적으로 들어가 있는 값 설정하기
+    </li>
+    <li>
+      autofocus : 페이지로 들어갔을때 자동으로 선택되어있게 한다. 
+    </li>
+    <li>
+      readonly : 읽기만 가능하고 전송된다. dediabled : 입력이 불가하고 전송이 되지 않는다. 
+    </li>
+    <li>
+      required : 
+    </li>
+  </ul>
+  <form action="#">
+    <label for="valIp">value</label> <br>
+    <input 
+      id="valIp"
+      type="text"
+      value="지정됨"
+    >
+    <br><br>
+
+    <label for="afIp">autofocus</label> <br>
+    <input 
+      id="afIp"
+      type="text"
+      placeholder="자동 포커스됨"
+      autofocus
+    >
+    <br><br>
+
+    <label for="roIp">readonly</label> <br>
+    <input 
+      id="roIp"
+      type="text"
+      value="읽기만 가능, 전송됨"
+      readonly
+    >
+    <br><br>
+
+    <label for="rqIp">required</label> <br>
+    <input 
+      id="rqIp"
+      type="text"
+      placeholder="필수입력!"
+      required
+    >
+    <br><br>
+
+    <label for="daIp">disabled</label> <br>
+    <input 
+      id="daIp"
+      type="text"
+      placeholder="입력불가, 전송 안됨"
+      disabled
+    >
+    <br><br>
+    <input
+      type="radio"
+      name="fruit"
+      id="f_apple"
+      value="apple"
+      checked
+    >
+    <label for="f_apple">사과</label>
+    <input
+      type="radio"
+      name="fruit"
+      id="f_grape"
+      value="grape"
+    >
+    <label for="f_grape">포도</label>
+    <input
+      type="radio"
+      name="fruit"
+      id="f_orange"
+      value="orange"
+      disabled
+    >
+    <label for="f_orange">오렌지(품절)</label>
+    <br>
+
+    <br><br>
+
+    <button type="submit">제출</button>
+  </form>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

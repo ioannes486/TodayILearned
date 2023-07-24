@@ -1,0 +1,28 @@
+Jupyter 노트북 테마 적용하기 
+@ https://chancoding.tistory.com/8 & https://chancoding.tistory.com/48
+
+
+dunovank/jupyter-themes 적용함 @ https://goo.gl/g5Mzsi
+
+1) cmd 창에서 "pip install jupyterthemes"를 입력하여 라이브러리 설치
+2) cmd 창에서 직접 아래 command line usage 조합을 입력하여 테마 변경 진행
+
+-> 현재 적용된 테마 (강사 화면) : 
+jt -t grade3 -T -N -f bitstream -fs 10 -nf opensans -nfs 11 -tf robotosans -tfs 10 -cellw 1140 -lineh 150 -cursw 3
+
+- 테마 : grade3 
+- 툴바 & 제목바 보임 : T & N
+- 코드 폰트 (입력 & 출력) : bitstream & 10 (f, fs)
+- 노트북 폰트 (메인화면, 상단 제목 bar 및 메뉴 bar) : opensans 11 (nf, nfs)
+- 마크다운 폰트 : robotosans 10 (tf, tfs)
+- cell 너비 : 1140
+- line height : 150 
+- 커서 너비 : cursw 3 (default 2) 
+
+
+-> 어두운 색으로 변경하려면 onedork or oceans16 or monokai 
+jt -t onedork -T -N -f bitstream -fs 10 -nf opensans -nfs 11 -tf robotosans -tfs 10 -cellw 1140 -lineh 150
+
+-> 밝은 색으로 변경하려면 solarizedl or grade3 
+jt -t solarizedl -T -N -f bitstream -fs 10 -nf opensans -nfs 11 -tf robotosans -tfs 10 -cellw 1140 -lineh 150
+jt -t grade3 -T -N -f bitstream -fs 10 -nf opensans -nfs 11 -tf robotosans -tfs 10 -cellw 1140 -lineh 150

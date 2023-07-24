@@ -1,0 +1,40 @@
+아나콘다 가상환경을 만들고, 
+해당 가상환경 내에서 라이브러리 설치 및 작업을 진행해주세요.
+이후에는 해당 가상환경을 통째로 압축 및 복사하여 가져다 바로 활용이 가능합니다.
+
+
+1) 아나콘다 가상환경 만들기 (@ cmd)
+conda create --name {가상환경 이름} {파이썬 버전}
+ex) conda create --name env_mldl python=3.7.3 
+
+2) 아나콘다 가상환경에서 Jupyter notebook 실행하기 (@ cmd)
+conda env list (현재 존재하는 가상환경 리스트를 출력해줍니다.)
+activate env_mldl 
+jupyter notebook
+
+3) 아나콘다 가상환경에 라이브러리 설치하기 (@ cmd)
+activate env_mldl 
+conda/pip install {라이브러리이름==라이브러리버전} 
+ex) conda install tensorflow==1.13.1
+
+
+4) 아나콘다 가상환경 백업하기
+- 아나콘다 설치 폴더로 들어갑니다.
+- Windows10 기준 [ C > ProgramData > Anaconda3 ] 에 위치해있으며, ProgramData 폴더는 "숨김파일 표시" 처리를 해줘야 볼 수 있습니다.
+- Anaconda3 폴더 내의 envs 폴더를 들어갑니다.
+- 만들어두었던 가상환경의 이름을 가진 폴더를 압축합니다.
+
+
+5) 아나콘다 가상환경 복원하기
+- 새로운 환경에 Anaconda를 설치합니다. (백업한 Anaconda와 동일한 버전의 Anaconda 및 Python을 설치해줘야 합니다.)
+- cmd에서 python을 입력하여 pip 및 conda 명령어가 잘 실행되는지 확인합니다.
+- 아나콘다 설치 폴더(C > ProgramData > Anaconda3)로 들어갑니다.
+- Anaconda3 폴더 내의 envs 폴더에 위 4에서 압축했던 파일의 압축을 풀어줍니다. (envs > 가상환경이름폴더 내에 바로 모든 파일이 위치해있어야 합니다.)
+- cmd에서 위 2의 방식을 따라 Jupyter notebook을 실행해 확인합니다.
+
+
+* env 폴더를 통째로 복사하지 않고 라이브러리 리스트만 가져다가 다른 개발환경에서 설치하기 (온라인)
+[기존 환경] conda env export --name env_mldl --file env_mldl.yaml
+[새로운 환경] conda env create --name env_mldl_new --file env_mldl.yaml
+
+** 위 명령어에서 --name은 -n으로, --file은 -f로 축약이 가능합니다.
