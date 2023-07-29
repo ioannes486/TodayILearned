@@ -1,0 +1,36 @@
+import sys
+sys.stdin = open('input.txt', 'r')
+
+N = int(input())
+
+coordinates = [list(input().split()) for i in range(N)]
+
+# 좌표 생성
+for x in range(1000001):
+    for y in range(1000001):
+        dist = 10000000
+        dist_sum = 0
+
+        # 거리 합 구하기
+        for i in range(N):
+            dist_sum += (int(coordinates[i][0])-x)**2 + \
+                (int(coordinates[i][1])-y)**2
+
+        # 비교해서 더 짧은 거리 구하기
+        dist = min(dist, dist_sum)
+print(dist)
+# 1 
+# 가운데서 모이는게 가장 좋은선택이 아닐까
+
+# 2
+# 우리가 한 곳에서 모일 때 비용을 최소화 하기 위해서는 우리의 집 중 한 곳에서 모이면 된다.
+
+# 3
+# 최소 거리를 계산하고 싶다
+# 그리고 2명이 모여야 한다.
+# 그 점에서, 가까운 두명의 거리만 더해주면 되지 않을까?
+
+
+# 2차원 좌표계, 모이는 인원이 세명일 경우 가능한 x는 3개, 가능한 y는 3개, 가능한 x는 3갸이므로 가능한 총 좌표수는 9개이다.
+
+# 
