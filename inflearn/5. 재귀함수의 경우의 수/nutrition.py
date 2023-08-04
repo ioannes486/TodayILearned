@@ -24,3 +24,5 @@ ingre = [list(map(int, input().split())) for _ in range(N)]
 answer = 9999999999
 recur(0,0,0,0,0,0)
 print(answer)
+
+# git add
