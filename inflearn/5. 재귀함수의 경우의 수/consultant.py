@@ -22,3 +22,14 @@ answer = 0
 recur(0,0)
 print(interview)
 print(answer)
+
+dp[0] = max(recur(4) + 10, recur(1))
+# recur(4)
+dp[4] = max(recur(6) + 35, recur(5))
+# recur(6)
+return 0
+dp[4] = 35
+dp[0] = 10
+
+# recur(1)
+dp[1] = max(recur()
