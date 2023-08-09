@@ -1,9 +1,9 @@
 import sys
 sys.stdin = open('napsag.txt','r')
 
-
+# 냅색문제 :
 def recur(idx, weight):
-    # 고려할 요소 = 두가지
+    # 고려할 요소 = 인덱스와 가방의 무게
     # 산출값 = 물건의 가치 최댓값
     # 고려해야 할 요소가 두가지이기 때문에 2차원 dp를 활용한다.
 
