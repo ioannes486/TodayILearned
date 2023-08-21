@@ -21,7 +21,7 @@ for y in range(n):
                 for dy, dx in  [[0,1], [0,-1],[1,0],[-1,0]]:
                     ny, nx = ey + dy, ex + dx
                     if 0 <= ny < n and 0 <= nx < m:
-                        if graph[ny][nx]=='L':
+                        if graph[ny][nx] == 'L':
                             if visited[ny][nx] == 0:
                                 dist[ny][nx] = dist[ey][ex] + 1
                                 q.append(ny, nx)
