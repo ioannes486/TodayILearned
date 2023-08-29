@@ -100,7 +100,3 @@ header hgroup {
     font-size: 1.2em;
     padding: 10px 15px;
 }
-ul#df > li {
-    display: inline-block;
-    border: 1px red;
-}
