@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e96ef76-21f0-4abb-991a-f1e0373688ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/stack/S4_Parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/Planet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/LifeCoding/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB/LifeCoding/web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TIL-for-Jin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diary.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/git_basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/git_basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git/github_day2.md" beforeDir="false" afterPath="$PROJECT_DIR$/GIT/github_day2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/color.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/color.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/holy_grail.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/holy_grail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/margin.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/margin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/position.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/position.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/text_align.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/LifeCoding/text_align.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCoding/web.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/9. (etc 1) Jupyter 시작경로 바꾸는 방법.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/9. (etc 1) Jupyter 시작경로 바꾸는 방법.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/9. (etc 2) JupyterNotebook 테마 적용하기 (색상, 폰트 등).txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/9. (etc 2) JupyterNotebook 테마 적용하기 (색상, 폰트 등).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/9. (etc 3) Anaconda 백업 및 복원하기 (온라인 or 오프라인).txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/9. (etc 3) Anaconda 백업 및 복원하기 (온라인 or 오프라인).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Bene.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/django_review/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/django_review/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/django_review/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/django_review/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/django_review/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/django_review/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/django_review/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/django_review/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/django_review/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/django_review/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/cv_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/cv_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/templates/opencv_webapp/detect_face.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/templates/opencv_webapp/detect_face.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/templates/opencv_webapp/first_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/templates/opencv_webapp/first_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/templates/opencv_webapp/simple_upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/templates/opencv_webapp/simple_upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/opencv_webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/opencv_webapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/DJANGO_REIVEW/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/DJANGO_REIVEW/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/mysite/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/mysite/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/mysite/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/static/polls/images/background" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/static/polls/images/background" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/static/polls/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/templates/polls/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Django_official_website/POLLS/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/Django_official_website/POLLS/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/alphabet order/alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/alphabet order/alphabet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMDB_api_practice/api_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/TMDB_api_practice/api_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/01_Tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/01_Tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/02_Attributes and notation.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/02_Attributes and notation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/04_Arangable_Resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/04_Arangable_Resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/05_Images.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/05_Images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/06_Tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/06_Tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/07_Links.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/07_Links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/08_User_Input_1~2.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/08_User_Input_1~2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/09_User_Input_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/09_User_Input_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/10_more_tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/10_more_tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yalco/HTML_CSS/view-source_https___comic.naver.com_webtoon_weekday.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/HTML_CSS/view-source_https___comic.naver.com_webtoon_weekday.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/.idea/algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/.idea/algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_1. 큰수의 법칙/law_of_large_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_1. 큰수의 법칙/law_of_large_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_2. 숫자카드게임/game_of_numcard.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_2. 숫자카드게임/game_of_numcard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_2. 숫자카드게임/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_2. 숫자카드게임/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_3. 1이 될 때까지/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_3. 1이 될 때까지/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_3. 1이 될 때까지/till_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_3. 1이 될 때까지/till_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_4. 모험가 길드/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_4. 모험가 길드/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_4. 모험가 길드/touristor_guild.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_4. 모험가 길드/touristor_guild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_4. 모험가 길드/touritor_guild_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_4. 모험가 길드/touritor_guild_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_5. 곱하기 혹은 더하기/multiplt_or_add_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_5. 곱하기 혹은 더하기/multiplt_or_add_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_5. 곱하기 혹은 더하기/multipy_or_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_5. 곱하기 혹은 더하기/multipy_or_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/I. 그리디/그리디_6. 문자열 뒤집기/string_flip.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/I. 그리디/그리디_6. 문자열 뒤집기/string_flip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/II. 구현/ex1) - 상하좌우/LRUD.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/II. 구현/ex1) - 상하좌우/LRUD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/II. 구현/ex1) - 상하좌우/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/II. 구현/ex1) - 상하좌우/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/II. 구현/ex2) - 시각/clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/II. 구현/ex2) - 시각/clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/II. 구현/구현_1. 왕실의 나이트/night.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/II. 구현/구현_1. 왕실의 나이트/night.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/II. 구현/구현_1. 왕실의 나이트/night_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/II. 구현/구현_1. 왕실의 나이트/night_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/III. DFS와 BFS/BFS 갸념/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/III. DFS와 BFS/BFS 갸념/bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/III. DFS와 BFS/BFS 갸념/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/this_is_coding_test_with_python/III. DFS와 BFS/BFS 갸념/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/1. 그리디_연습문제/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/1. 그리디_연습문제/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Algebra/GCD.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Algebra/GCD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Algebra/adding_fraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Algebra/adding_fraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Algebra/next_prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Algebra/next_prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Algebra/roadtree.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Algebra/roadtree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Back_tracking/G4_making_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Back_tracking/G4_making_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Back_tracking/adding_1_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Back_tracking/adding_1_2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/Back_tracking/adding_operatords.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Back_tracking/adding_operatords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/stack/S4_Parenthesis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/stack/S4_stack2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/stack/S4_stack2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_test/BOJ/stack/S4_zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/stack/S4_zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/1_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/1_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/2_candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/2_candy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/3_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/3_equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/4_number_baseball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/4_number_baseball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/최단거리1/5_min_dist" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/최단거리1/5_min_dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/최단거리1/5_min_dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/최단거리1/5_min_dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/최단거리1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/최단거리1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/1. 완전탐색/최단거리1/min_dist2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/1. 완전탐색/최단거리1/min_dist2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/11. 이분탐색/cutting_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/11. 이분탐색/cutting_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/11. 이분탐색/cutting_tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/11. 이분탐색/cutting_tree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/11. 이분탐색/thanos.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/11. 이분탐색/thanos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/11. 이분탐색/thanos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/11. 이분탐색/thanos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/12. DFS와 BFS/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/12. DFS와 BFS/bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/12. DFS와 BFS/virus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/12. DFS와 BFS/virus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/12. DFS와 BFS/virus_bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/12. DFS와 BFS/virus_bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/12. DFS와 BFS/virus_dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/12. DFS와 BFS/virus_dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/2. 정수론/common_divide.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/2. 정수론/common_divide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/2. 정수론/hidden_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/2. 정수론/hidden_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/2. 정수론/light.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/2. 정수론/light.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/2ddp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/2ddp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/column.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/column.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/column.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/column.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/sum_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/sum_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/3. 누적합/sum_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/3. 누적합/sum_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/4. 재귀함수와 백트래킹/num.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/4. 재귀함수와 백트래킹/num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/4. 재귀함수와 백트래킹/number_baseball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/4. 재귀함수와 백트래킹/number_baseball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/4. 재귀함수와 백트래킹/number_baseball.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/4. 재귀함수와 백트래킹/number_baseball.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/4. 재귀함수와 백트래킹/recur.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/4. 재귀함수와 백트래킹/recur.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/4. 재귀함수와 백트래킹/recursive_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/4. 재귀함수와 백트래킹/recursive_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/advanced_recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/advanced_recursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/consultant.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/consultant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/consultant.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/consultant.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/napsag.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/napsag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/napsag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/napsag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/nutrition.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/nutrition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/5. 재귀함수의 경우의 수/nutrition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/5. 재귀함수의 경우의 수/nutrition.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/6. 탑다운 dp/napsag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/6. 탑다운 dp/napsag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/6. 탑다운 dp/napsag_dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/6. 탑다운 dp/napsag_dp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/6. 탑다운 dp/top_down.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/6. 탑다운 dp/top_down.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/6. 탑다운 dp/top_down.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/6. 탑다운 dp/top_down.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/7. 바텀업 dp/bottom_up.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/7. 바텀업 dp/bottom_up.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/7. 바텀업 dp/bottom_up_dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/7. 바텀업 dp/bottom_up_dp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/8. 2차원 dp/many_moves.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/8. 2차원 dp/many_moves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/8. 2차원 dp/many_moves.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/8. 2차원 dp/many_moves.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/8. 2차원 dp/move_to_the_end.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/8. 2차원 dp/move_to_the_end.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/8. 2차원 dp/move_to_the_end.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/8. 2차원 dp/move_to_the_end.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/8. 2차원 dp/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALGORITHM/inflearn/8. 2차원 dp/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/static/dog.png" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/static/dog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/static/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openai-quickstart-python/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/openai-quickstart-python/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stackoverflowquetions.md" beforeDir="false" afterPath="$PROJECT_DIR$/OTHERS/stackoverflowquetions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webcraper/LICENSE.chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/webcraper/LICENSE.chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webcraper/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/webcraper/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webcraper/파이선웹스크래이핑.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA_ANALYSIS/webcraper/파이선웹스크래이핑.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2TEW3cltAjSR2THOB6hWyvV9uTi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jingwanghwan/coding/TodayILearned&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inflearn/7. 바텀업 dp" />
+      <recent name="$PROJECT_DIR$/inflearn/6. 탑다운 dp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OTHERS" />
+      <recent name="$PROJECT_DIR$/WEB" />
+      <recent name="$PROJECT_DIR$/GIT" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/DATA_ANALYSIS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.making_password">
+    <configuration name="S3_dokeydokey_snacker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/stack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/stack/S3_dokeydokey_snacker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="making_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding_test/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding_test/BOJ/making_password.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="top_down" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inflearn/6. 탑다운 dp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inflearn/6. 탑다운 dp/top_down.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="virus_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inflearn/12. DFS와 BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inflearn/12. DFS와 BFS/virus_bfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="virus_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inflearn/12. DFS와 BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inflearn/12. DFS와 BFS/virus_dfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e96ef76-21f0-4abb-991a-f1e0373688ec" name="Changes" comment="" />
+      <created>1690608522063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690608522063</updated>
+      <workItem from="1690608523835" duration="6932000" />
+      <workItem from="1690768682719" duration="30000" />
+      <workItem from="1690790734442" duration="8527000" />
+      <workItem from="1690805940940" duration="3663000" />
+      <workItem from="1690956968767" duration="3499000" />
+      <workItem from="1690961726388" duration="16584000" />
+      <workItem from="1691044602337" duration="12023000" />
+      <workItem from="1691160866845" duration="4940000" />
+      <workItem from="1691229021146" duration="10283000" />
+      <workItem from="1691370847808" duration="9227000" />
+      <workItem from="1691574964183" duration="9144000" />
+      <workItem from="1692690523940" duration="4253000" />
+      <workItem from="1693373597187" duration="1643000" />
+      <workItem from="1693406190516" duration="146000" />
+      <workItem from="1693406341098" duration="3000" />
+      <workItem from="1693406359953" duration="4447000" />
+      <workItem from="1693466139351" duration="2055000" />
+      <workItem from="1693484572254" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
