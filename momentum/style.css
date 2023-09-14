@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+}
+h1 {
+  color: cornflowerblue;
+}
+.inactive {
+  color: cornflowerblue;
+  transition: color 0.5s ease-in-out;
+}
+.active {
+  color: tomato;
+  transition: color 0.5s ease-in-out;
+}
+.sexy-font {
+  font-family: "Courier New", Courier, monospace;
+}

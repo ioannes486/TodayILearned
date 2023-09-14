@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e96ef76-21f0-4abb-991a-f1e0373688ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Combination/S4_bridge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/B1_pivonacci1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/S2_funny_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/S3_01tile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue/S4_card2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue/S4_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue/queue.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_PRACTICE/src/com/in28minutes/character/CharRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_PRACTICE/src/com/in28minutes/character/MyChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_PRACTICE/src/com/in28minutes/switchexercise/SwitchExerciseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_PRACTICE/src/com/in28minutes/switchexercise/WeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_PRACTICE/src/com/in28minutes/textcases/TestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_PRACTICE/src/com/in28minutes/textcases/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/S2_continous_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/S3_ pardovan_arr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +60,7 @@
       <recent name="$PROJECT_DIR$/DATA_ANALYSIS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.S3_01tile">
+  <component name="RunManager" selected="Python.S2_continous_sum">
     <configuration name="B1_pivonacci1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL-for-Jin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +75,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/B1_pivonacci1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S2_continous_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/S2_continous_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,6 +127,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="S3_ pardovan_arr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL-for-Jin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP/S3_ pardovan_arr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="S3_01tile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL-for-Jin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,57 +171,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="S4_bridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL-for-Jin" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Combination" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Combination/S4_bridge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="S4_card2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL-for-Jin" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue/S4_card2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.S2_continous_sum" />
+        <item itemvalue="Python.S3_ pardovan_arr" />
         <item itemvalue="Python.S3_01tile" />
         <item itemvalue="Python.S2_funny_function" />
         <item itemvalue="Python.B1_pivonacci1" />
-        <item itemvalue="Python.S4_bridge" />
-        <item itemvalue="Python.S4_card2" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +209,8 @@
       <workItem from="1693484572254" duration="73000" />
       <workItem from="1693550200095" duration="1333000" />
       <workItem from="1693560782373" duration="7651000" />
-      <workItem from="1693744890692" duration="9771000" />
+      <workItem from="1693744890692" duration="10039000" />
+      <workItem from="1693797392938" duration="5656000" />
     </task>
     <servers />
   </component>
@@ -255,7 +245,9 @@
     <SUITE FILE_PATH="coverage/TodayILearned$S3_funny_function.coverage" NAME="S3_funny_function Coverage Results" MODIFIED="1693748430653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
     <SUITE FILE_PATH="coverage/TodayILearned$queue.coverage" NAME="queue Coverage Results" MODIFIED="1693562863759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue" />
     <SUITE FILE_PATH="coverage/TodayILearned$S3_01tile.coverage" NAME="S3_01tile Coverage Results" MODIFIED="1693754901313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
+    <SUITE FILE_PATH="coverage/TodayILearned$S3__pardovan_arr.coverage" NAME="S3_ pardovan_arr Coverage Results" MODIFIED="1693799295882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
     <SUITE FILE_PATH="coverage/TodayILearned$B1_pivonacci1.coverage" NAME="B1_pivonacci1 Coverage Results" MODIFIED="1693567507263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
     <SUITE FILE_PATH="coverage/TodayILearned$S4_card2.coverage" NAME="S4_card2 Coverage Results" MODIFIED="1693565128204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/Queue" />
+    <SUITE FILE_PATH="coverage/TodayILearned$S2_continous_sum.coverage" NAME="S2_continous_sum Coverage Results" MODIFIED="1693802533974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALGORITHM/coding_test/BOJ/DP" />
   </component>
 </project>
