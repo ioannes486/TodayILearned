@@ -5,9 +5,6 @@ class Planet {
 
   public static void main(String[] args) {
     Planet planet = new Planet();
-    planet.revolve1();
-
-    
-
+    planet.revolve();
   }
 }
