@@ -378,3 +378,6 @@ pip-selfcheck.json
 *.h5
 *.zip
 /Telegram/
+/momentum/
+/momentum/Practice
+
