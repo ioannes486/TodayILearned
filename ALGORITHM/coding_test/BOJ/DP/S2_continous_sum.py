@@ -1,25 +1,23 @@
 import sys
 
 N = int(input())
-arr = list(map(int, input().split()))
+arr = list(map(int, sys.stdin.readline().split()))
 
-dp =[[0 for _ in range(N+1)]for _ in range(N+1)]
-for i in range(N):
-    for j in range(i, N):
-        dp[i][i] = arr[i]
-        dp[i][j] = arr[j] + dp[i][j-1]
-print(dp)
+
+def lcs(nums):
+    current_value = 0
+    max_value = -10**8
+    for num in nums:
+        current_value = max(current_value + num, num)
+        # 현재 값과 다음 값의 가장 큰 
+        max_value = max(max_value, current_value)
+    return max_value
+
+print(lcs(arr))
+# dp =[[0 for _ in range(N+1)]for _ in range(N+1)]
+# for i in range(N):
+#     for j in range(i, N):
+#         dp[i][i] = arr[i]
+#         dp[i][j] = arr[j] + dp[i][j-1]
+# # print(dp)
 # print(max(map(max,dp)))
-10, -4, 3, 1, 5, 6, -35, 12, 21, -1
-
-[[10, 6, 9, 10, 15, 21, -14, -2, 19, -91, 0],
- [0, -4, -1, 0, 5, 11, -24, -12, 9, -101, 0],
- [0, 0, 3, 4, 9, 15, -20, -8, 13, -97, 0],
- [0, 0, 0, 1, 6, 12, -23, -11, 10, -100, 0],
- [0, 0, 0, 0, 5, 11, -24, -12, 9, -101, 0],
- [0, 0, 0, 0, 0, 6, -29, -17, 4, -106, 0],
- [0, 0, 0, 0, 0, 0, -35, -23, -2, -112, 0],
- [0, 0, 0, 0, 0, 0, 0, 12, 33, -77, 0],
- [0, 0, 0, 0, 0, 0, 0, 0, 21, -89, 0],
- [0, 0, 0, 0, 0, 0, 0, 0, 0, -110, 0],
- [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
