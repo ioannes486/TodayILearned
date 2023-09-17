@@ -18,7 +18,7 @@ def recur(idx, sum):
     global result
     if idx == N-1:
         result = min(sum, result)
-        return
+        return result
 
     recur(idx+1, sum+arr[idx][0])
     recur(idx+1, sum+arr[idx][1])
