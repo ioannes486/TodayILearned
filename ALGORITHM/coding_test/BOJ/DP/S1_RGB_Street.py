@@ -7,22 +7,32 @@ r g b
 
 
 '''
+# 재귀함수 풀이
+N = int(input())
+arr = [list(map(int, input().split())) for _ in range(N)]
 
-N = int(input)
-arr = [map(int, input().split()) for _ in range(N)]
+result = 1000*1000
+dp = arr[0]
 
-result = 1000
-cost = 0
+for i in range(1, N):
+    for j in range(3):
+        if j == 0:
+            dp[j] += min
 
-def recur(idx, sum):
-    global result
-    if idx == N-1:
-        result = min(sum, result)
-        return result
 
-    recur(idx+1, sum+arr[idx][0])
-    recur(idx+1, sum+arr[idx][1])
-    recur(idx+1, sum+arr[idx][2])
+# def recur(idx, sum, ex):
+#     global result
+#     if idx == N:
+#         dp.append(sum)
+#         return
+#
+#     for i in range(3):
+#         if ex != i:
+#             recur(idx+1, sum+arr[idx][i], i)
+# recur(0, 0, 0)
+# recur(0,0,1)
+# recur(0,0,2)
+# print(min(dp))
+# print(dp)
 
-recur(0, 0)
-print(result)
+#
