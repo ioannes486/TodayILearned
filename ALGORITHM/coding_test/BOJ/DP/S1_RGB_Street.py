@@ -14,12 +14,6 @@ arr = [list(map(int, input().split())) for _ in range(N)]
 result = 1000*1000
 dp = arr[0]
 
-for i in range(1, N):
-    for j in range(3):
-        if j == 0:
-            dp[j] += min
-
-
 # def recur(idx, sum, ex):
 #     global result
 #     if idx == N:
