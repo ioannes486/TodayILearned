@@ -1,0 +1,15 @@
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\bin\Debug\net8.0\CSharpTutorial.exe
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\bin\Debug\net8.0\CSharpTutorial.deps.json
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\bin\Debug\net8.0\CSharpTutorial.runtimeconfig.json
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\bin\Debug\net8.0\CSharpTutorial.dll
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\bin\Debug\net8.0\CSharpTutorial.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.AssemblyInfoInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.AssemblyInfo.cs
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.csproj.CoreCompileInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.sourcelink.json
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.dll
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\refint\CSharpTutorial.dll
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\CSharpTutorial.genruntimeconfig.cache
+C:\Users\kh983\TodayILearned\C_SHARP\CSharpTutorial\CSharpTutorial\obj\Debug\net8.0\ref\CSharpTutorial.dll

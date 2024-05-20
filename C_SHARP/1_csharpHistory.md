@@ -29,3 +29,11 @@ ASP.NET
 Blazor
 Singnal R
 Web API
+
+# 2. 프로그래밍 관행
+
+![c sharp coding conventions](C:/Users/kh983/TodayILearned/C_SHARP/CSharpCodingConventions.jpeg "C#코딩관행")
+
+클래스 : 파스칼 케이스로 작성하기
+메소드 : 파스칼 케이스로 작성
+변수 : 캐멀 케이스로 작성

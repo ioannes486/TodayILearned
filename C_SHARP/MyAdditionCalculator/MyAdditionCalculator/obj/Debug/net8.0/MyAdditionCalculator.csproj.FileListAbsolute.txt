@@ -1,0 +1,15 @@
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.exe
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.deps.json
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.runtimeconfig.json
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.dll
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfoInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfo.cs
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.sourcelink.json
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.dll
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\refint\MyAdditionCalculator.dll
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.genruntimeconfig.cache
+C:\Users\kh983\TodayILearned\C_SHARP\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\ref\MyAdditionCalculator.dll
