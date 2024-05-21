@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "2e405a0c084ee733",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f10198cf3e14d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0bb78703f5c4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bc291febcad615e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8f88fc4a2ebbb83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb69cdbe3a4e7e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a58a8e2f01a3cef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b25a6dc4606220f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae31194b6eba951f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36538a29254e4e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "34923ecce34c6acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67982ce980ef68ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "283f2882c978c821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53da3af7be18af37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c22ffc9b712333a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "5c0bb78703f5c4e7",
+  "lastOpenFiles": [
+    "TypesOfData/무제 파일.md",
+    "TypesOfData/ValueTypeAndReferenceType.md",
+    "ComputerScience/MemoryPart.md",
+    "ComputerScience/HexadecimalAddress.md",
+    "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
+    "ComputerScience",
+    "무제 파일 5.md",
+    "무제 파일.md",
+    "무제 파일 4.md",
+    "무제 파일 3.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "Tags/Tags.md",
+    "Vault.md",
+    "해쉬주소.md",
+    "Tags",
+    "TypesOfData"
+  ]
+}

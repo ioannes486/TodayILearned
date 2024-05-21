@@ -1,13 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/*모든 값타임에 parse메소드가 존재하지만 enum, struct에는 존재 x*/
+double myNumber1 = 0.0;
+double myNumber2 = 0.0;
 
-//출력함수
-Console.WriteLine("Enter something!");
-
-//사용자 인풋 받기
-
+Console.WriteLine("Enter a number you want to add");
 string userInput = Console.ReadLine();
-Console.WriteLine("You've entered " + userInput);
-Console.ReadKey();  // 아무키나 누를 때까지 콘솔을 대기하게 하는 역할
+myNumber1 = double.Parse(userInput); // read only struct
 
-// '디버그 완료 시 콘솔 종료 설정을 적용 후 '코드를 빼고 실행시킬 경우
-// Console.WriteLine을 실행시킨다음 바로 종료된다.
+Console.WriteLine("Enter a number you want to add");
+userInput = Console.ReadLine();
+myNumber2 = double.Parse(userInput); // read only struct
+
+double result = myNumber1 + myNumber2;
+result = Math.Round(result, 2);
+Console.WriteLine($"the result is {myNumber1 + myNumber2}");
+
+Console.ReadKey();
