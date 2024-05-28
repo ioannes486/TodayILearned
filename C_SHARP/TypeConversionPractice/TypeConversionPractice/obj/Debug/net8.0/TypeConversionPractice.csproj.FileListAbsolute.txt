@@ -1,0 +1,15 @@
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\bin\Debug\net8.0\TypeConversionPractice.exe
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\bin\Debug\net8.0\TypeConversionPractice.deps.json
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\bin\Debug\net8.0\TypeConversionPractice.runtimeconfig.json
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\bin\Debug\net8.0\TypeConversionPractice.dll
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\bin\Debug\net8.0\TypeConversionPractice.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.AssemblyInfoInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.AssemblyInfo.cs
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.csproj.CoreCompileInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.sourcelink.json
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.dll
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\refint\TypeConversionPractice.dll
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\TypeConversionPractice.genruntimeconfig.cache
+C:\Users\kh983\TodayILearned\C_SHARP\TypeConversionPractice\TypeConversionPractice\obj\Debug\net8.0\ref\TypeConversionPractice.dll

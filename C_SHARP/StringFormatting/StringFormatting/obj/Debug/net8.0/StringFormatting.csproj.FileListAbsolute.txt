@@ -1,0 +1,15 @@
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\bin\Debug\net8.0\StringFormatting.exe
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\bin\Debug\net8.0\StringFormatting.deps.json
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\bin\Debug\net8.0\StringFormatting.runtimeconfig.json
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\bin\Debug\net8.0\StringFormatting.dll
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\bin\Debug\net8.0\StringFormatting.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.AssemblyInfoInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.AssemblyInfo.cs
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.sourcelink.json
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.dll
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\refint\StringFormatting.dll
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.pdb
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\StringFormatting.genruntimeconfig.cache
+C:\Users\kh983\TodayILearned\C_SHARP\StringFormatting\StringFormatting\obj\Debug\net8.0\ref\StringFormatting.dll

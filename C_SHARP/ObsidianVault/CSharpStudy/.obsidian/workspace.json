@@ -11,9 +11,19 @@
             "id": "5c0bb78703f5c4e7",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "컴퓨터과학"
+              }
+            }
+          },
+          {
+            "id": "bc61a4de3e38237a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
+                "file": "Csharp문법/스트링 포맷팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypesOfData/ImplicitConvertionAndExplicitConversion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,14 +163,19 @@
   },
   "active": "5c0bb78703f5c4e7",
   "lastOpenFiles": [
+    "Csharp문법/스트링 포맷팅.md",
+    "Csharp문법/연산자의 연산순서.md",
+    "데이터 타입/여러가지 타입들.md",
+    "데이터 타입/암시적 형변환과 명시적 형변환.md",
+    "데이터 타입/밸류타입과 레퍼런스 타입.md",
+    "컴퓨터과학/메모리 영역.md",
+    "컴퓨터과학/16진수 메모리주소.md",
+    "컴퓨터과학/부동소수점수.md",
+    "Csharp문법",
+    "Tags",
     "TypesOfData/무제 파일.md",
-    "TypesOfData/ValueTypeAndReferenceType.md",
-    "ComputerScience/MemoryPart.md",
-    "ComputerScience/HexadecimalAddress.md",
-    "TypesOfData/ImplicitConvertionAndExplicitConversion.md",
-    "ComputerScience",
+    "컴퓨터과학",
     "무제 파일 5.md",
-    "무제 파일.md",
     "무제 파일 4.md",
     "무제 파일 3.md",
     "무제 파일 2.md",
@@ -171,7 +183,6 @@
     "Tags/Tags.md",
     "Vault.md",
     "해쉬주소.md",
-    "Tags",
-    "TypesOfData"
+    "데이터 타입"
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kh983\\TodayILearned\\C_SHARP\\myCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6188AFE-2293-4AD2-B976-C0A7FCA71DC7}|myCalculator\\myCalculator.csproj|c:\\users\\kh983\\todayilearned\\c_sharp\\mycalculator\\mycalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6188AFE-2293-4AD2-B976-C0A7FCA71DC7}|myCalculator\\myCalculator.csproj|solutionrelative:mycalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kh983\\TodayILearned\\C_SHARP\\myCalculator\\myCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "myCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\kh983\\TodayILearned\\C_SHARP\\myCalculator\\myCalculator\\Program.cs",
+              "RelativeToolTip": "myCalculator\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:11:41.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

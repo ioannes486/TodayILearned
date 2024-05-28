@@ -46,9 +46,15 @@
     "",
     "",
     "//TypesOfData",
+    "//ComputerScience",
+    "EssentialSyntax",
+    "TypesOfData",
+    "//데이터 타입",
     "ComputerScience",
-    "/",
-    "TypesOfData"
+    "데이터 타입",
+    "//Csharp문법",
+    "Csharp문법",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
