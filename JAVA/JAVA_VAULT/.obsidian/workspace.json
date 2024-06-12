@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic_java/자바 메서드.md",
+                "file": "Basic_java/Reference type.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic_java/자바 메서드.md",
+                "file": "Basic_java/Reference type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic_java/자바 메서드.md",
+                "file": "Basic_java/Reference type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic_java/자바 메서드.md"
+                "file": "Basic_java/Reference type.md"
               }
             }
           }
@@ -187,26 +187,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "a67bce73dcd94412",
   "lastOpenFiles": [
     "Basic_java/데이터 타입.md",
-    "Basic_java/자바에서 10진수를 2진수로 변환해서 출력하기.md",
-    "Basic_java/자바 메서드.md",
-    "Basic_java/자바 제어문.md",
-    "Basic_java/연산자.md",
     "Basic_java/자바 기초.md",
+    "Welcome.md",
+    "Basic_java/Reference type.md",
+    "Basic_java/Array.md",
+    "Basic_java/자바 제어문.md",
+    "Basic_java/자바의 객체지향 프로그래밍.md",
+    "Pasted image 20240611092746.png",
+    "Basic_java/자바 메서드.md",
+    "Basic_java/자바에서 10진수를 2진수로 변환해서 출력하기.md",
+    "Basic_java/연산자.md",
     "Basic_java/변수이름짓기.md",
     "Basic_java/자바 클래스.md",
     "바이트코드.md",
-    "Welcome.md",
     "Basic_java",
     "basic"
   ]
