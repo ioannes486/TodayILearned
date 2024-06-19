@@ -1,3 +1,5 @@
+package com.television;
+
 public interface TV extends Machine, Thing{
     public static int numberOfChannel = 3;
     public abstract void turnOn();  // pulbic abstract자동으로 붙는다.

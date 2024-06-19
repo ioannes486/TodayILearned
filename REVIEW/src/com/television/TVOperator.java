@@ -1,9 +1,10 @@
+package com.television;
 
 public class TVOperator {
     public static void main(String[] args) {
         // 인터페이스의 필드는 바꿀 수 없다.
         System.out.println(TV.numberOfChannel);
-//        TV.numberOfChannel = 4;
+//        com.television.TV.numberOfChannel = 4;
 
         // 인터페이스 객체 생성법
         TV tv = new SamsungTV();
