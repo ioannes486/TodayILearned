@@ -20,5 +20,9 @@ public class Dog implements Animal {
         return Animal.super.son();  // 하위 클래스에서 메서드를 선언할 때는 이렇게 선언한다.
     }
 
+public class Dog extends Animal {
+    public void cry(){
 
+    }
 }
+
