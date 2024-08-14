@@ -27,9 +27,12 @@ class Solution {
     }
 
     for (int i = 0; i < targets.length; i++) {
+
       String target = targets[i];
       int count = 0;
+       
       boolean flag = true;
+
       for (char cur : target.toCharArray()) {
         if (keypad.containsKey(cur)) {
           count += keypad.get(cur);
