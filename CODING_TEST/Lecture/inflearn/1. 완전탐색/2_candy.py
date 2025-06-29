@@ -1,13 +1,13 @@
-# 전수조사
-candy = 6
+candy = int(input()) #6
 
-answer = 0
-for a in range(0, candy+1):
-    for b in range(0, candy+1):
-        for c in range(0, candy+1):
-            if a + b + c == candy:
-                if a >= b+2:
-                    if a != 0 and b != 0 and c != 0:
-                        if c % 2 == 0:
-                            answer += 1
-print(answer)
+count = 0
+for A in range(0, candy+1):
+    for B in range(0, candy+1):
+        for C in range(0, candy+1):
+            if A + B+C == candy:
+                if A >= B +2:
+                    if A != 0 and B != 0 and C != 0:
+                        if C % 2 ==0:
+                            count += 1   
+
+print(count)
