@@ -1,0 +1,26 @@
+name: Notion2Github
+on:
+  schedule:
+    - cron: "0 14 * * *"
+jobs:
+  auto-sync-from-notion-to-github:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Notion2Github
+        uses: younho9/notion2github@v1.1.0
+        with:
+          database-url: "https://www.notion.so/ioannes/d7d6eb2310094fe8ad2beaf48ca44bf6?v=36faa8c834a6486c8deb9fc99230e7f3"
+          docs-directory: docs
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
+      - name: Format documents
+        uses: creyD/prettier_action@v3.1
+        with:
+          prettier_options: --write ./docs/**/*.md
+          commit_message: "docs: Update docs (auto)"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
