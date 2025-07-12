@@ -4,10 +4,15 @@ on:
     - cron: "0 3 * * *"
 jobs:
   auto-sync-from-notion-to-github:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - name: Notion2Github
         uses: younho9/notion2github@v1.1.0
