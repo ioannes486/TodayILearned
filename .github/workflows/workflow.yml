@@ -10,16 +10,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install urllib3
-        run: pip install urllib3==1.26.15
+      # - name: Install urllib3
+      #   run: pip install urllib3==1.26.15
 
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+      # - name: Set up Python 3.10
+      #   uses: actions/setup-python@v4
+      #   with:
+      #     python-version: '3.10'
 
       - name: Notion2Github
-        uses: younho9/notion2github@v1.1.0
+        uses: younho9/notion2github@v1.1.1
         with:
           database-url: "https://www.notion.so/ioannes/d7d6eb2310094fe8ad2beaf48ca44bf6?v=36faa8c834a6486c8deb9fc99230e7f3"
           docs-directory: docs
