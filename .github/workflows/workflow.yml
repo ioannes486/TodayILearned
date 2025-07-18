@@ -1,35 +1,17 @@
-name: Notion2Github
+name: Export my notion workspace
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 */6 * * *"  # Call the export every 6 hours
+  workflow_dispatch: {}
+
 jobs:
-  auto-sync-from-notion-to-github:
+  export:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v4
+      - uses: igor-kupczynski/notion-exporter@v1.0.2
         with:
-          python-version: '3.8'
-
-      - name: Install urllib3
-        run: pip install urllib3==1.26.15
-
-      - name: Notion2Github
-        uses: younho9/notion2github@v1.1.1
-        with:
-          database-url: "https://www.notion.so/ioannes/d7d6eb2310094fe8ad2beaf48ca44bf6?v=36faa8c834a6486c8deb9fc99230e7f3"
-          docs-directory: docs
-        env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-
-      - name: Format documents
-        uses: creyD/prettier_action@v3.1
-        with:
-          prettier_options: --write ./docs/**/*.md
-          commit_message: "docs: Update docs (auto)"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pages: "d7d6eb2310094fe8ad2beaf48ca44bf6"  # Pages IDs identified in (step 2)  
+          output-dir: notion-backup
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
